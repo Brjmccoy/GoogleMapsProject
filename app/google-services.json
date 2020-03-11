@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822945902655",
+    "firebase_url": "https://happy-hours-ac04f.firebaseio.com",
+    "project_id": "happy-hours-ac04f",
+    "storage_bucket": "happy-hours-ac04f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822945902655:android:245c53f8afd6c845c0c88a",
+        "android_client_info": {
+          "package_name": "com.example.googlemapsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822945902655-7i3mr9ni3184deu77c6kjajftgnmpfa4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlemapsproject",
+            "certificate_hash": "443ba23c0848ff97b6deca63fe06125970f3b71b"
+          }
+        },
+        {
+          "client_id": "822945902655-s5c6ioljcpclcu7j3f2iov6viq5au9jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCTPw80vMRqCyB4DyiiHbrHE43lJ1wnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822945902655-s5c6ioljcpclcu7j3f2iov6viq5au9jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
